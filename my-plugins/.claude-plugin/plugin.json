@@ -1,0 +1,8 @@
+{
+  "name": "frontend-code-review",
+  "displayName": "Frontend Code Review Orchestrator",
+  "version": "1.0.0",
+  "description": "Version-aware, multi-agent React/Next.js code review. Auto-detects stack and coordinates 17 specialist reviewers into a structured report.",
+  "author": { "name": "Vanshita Shah", "email": "vanshita.s@simformsolutions.com" },
+  "keywords": ["code-review", "react", "nextjs", "typescript", "accessibility"]
+}

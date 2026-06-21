@@ -1,0 +1,14 @@
+{
+  "name": "vanshita-plugins",
+  "owner": {
+    "name": "Vanshita Shah",
+    "email": "vanshita.s@simformsolutions.com"
+  },
+  "plugins": [
+    {
+      "name": "react-toolkit",
+      "source": "./react-toolkit",
+      "description": "Scaffold React components and hooks with project conventions, plus specialist agents to build and review them."
+    }
+  ]
+}

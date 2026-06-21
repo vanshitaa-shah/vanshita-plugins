@@ -1,0 +1,8 @@
+{
+  "name": "react-toolkit",
+  "displayName": "React Toolkit",
+  "version": "1.0.0",
+  "description": "Scaffold React components and hooks with project conventions, plus specialist agents to build and review them.",
+  "author": { "name": "Vanshita Shah", "email": "vanshita.s@simformsolutions.com" },
+  "keywords": ["react", "typescript", "components", "hooks", "scaffolding"]
+}
