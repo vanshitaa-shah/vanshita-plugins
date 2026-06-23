@@ -9,6 +9,11 @@
       "name": "react-toolkit",
       "source": "./react-toolkit",
       "description": "Scaffold React components and hooks with project conventions, plus specialist agents to build and review them."
+    },
+    {
+      "name": "code-review",
+      "source": "./code-review",
+      "description": "Senior, version-aware frontend code reviewer for React/Next.js/TypeScript/Tailwind. Reviews local working-tree changes (or a PR via GitHub MCP) and returns a narrative verdict with concrete fixes."
     }
   ]
 }

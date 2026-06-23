@@ -1,0 +1,8 @@
+{
+  "name": "code-review",
+  "displayName": "Code Review",
+  "version": "1.0.0",
+  "description": "Senior, version-aware frontend code reviewer for React/Next.js/TypeScript/Tailwind. Reviews your local working-tree changes (or a PR via GitHub MCP) and returns a narrative verdict with concrete fixes and references.",
+  "author": { "name": "Vanshita Shah", "email": "vanshita.s@simformsolutions.com" },
+  "keywords": ["react", "nextjs", "typescript", "tailwind", "code-review", "pull-request"]
+}
