@@ -25,13 +25,13 @@ Two ways to scope the review:
 **Step 1 — Add this marketplace to your project:**
 
 ```
-/plugin marketplace add git@github.com:simform-git/claude-plugins-react-mern.git
+/plugin marketplace add vanshitaa-shah/vanshita-plugins
 ```
 
 **Step 2 — Install the plugin:**
 
 ```
-/plugin install code-review@simform-reactjs-plugins
+/plugin install code-review@vanshita-plugins
 ```
 
 **Step 3 — Reload plugins:**
@@ -147,5 +147,4 @@ to benefit from one, and a compact metadata block is included for PR reviews or 
 
 ## Part of
 
-The `simform-reactjs-plugins` marketplace, alongside
-[`react-component-generator`](../react-component-generator) and [`copilot-to-claude`](../copilot-to-claude).
+The `vanshita-plugins` marketplace, alongside [`react-toolkit`](../react-toolkit).
